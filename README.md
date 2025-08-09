@@ -78,10 +78,7 @@ Display all feedback in table format
 
 ---
 **Prepared By:**
-- Sonal Dewani
-- Sakshi Budhe
 - Vaishnavi Nimbalkar
-- Akansha Raguwanshi
-- Maithili Wagh
+
 
 **Date:** 8 August 2025
